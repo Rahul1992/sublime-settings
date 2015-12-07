@@ -1,1 +1,2 @@
 # sublime-settings 
+all settings
