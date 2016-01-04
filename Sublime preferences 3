@@ -1,0 +1,20 @@
+my settings 2 :
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"findreplace_small": true,
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sidebar_small": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Default.sublime-theme",
+	"trailing_spaces_trim_on_save": true
+}
+
